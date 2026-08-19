@@ -1,5 +1,5 @@
-# calculator
-my first c project
+# Learning C Programming
+this repository contains C language projects  
 
 # Project 1: Simple Calculator
 
