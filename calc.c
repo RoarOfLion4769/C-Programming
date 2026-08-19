@@ -13,7 +13,7 @@ int main() {
     scanf(" %c", &operator);
 
     printf("Enter first value(s): ");
-    scanf("%lf", &num1);
+    scanf("%lf", &num2);
 
     switch (operator) {
         case '+':
