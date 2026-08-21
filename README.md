@@ -11,7 +11,7 @@ I created a basic calculator that can perform addition, subtraction, multiplicat
 - Students can use it to verify their math homework.
 - Small businesses can use it for simple financial calculations.
 
-#Project 2: Hanged Man game 
+# Project 2: Hangman game 
 
 **Description**:
 I created a basic hangman game that gives you random words to guess. This program will take user input for guessing the word and return the answer.
